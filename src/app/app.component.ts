@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'dynamically-change-content-ngstyle-exercise';
+  changeColor: string = 'green'
 }
